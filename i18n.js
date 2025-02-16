@@ -1,6 +1,6 @@
 const translations = {
   en: {
-    title: 'Snake Game',
+    title: 'S4 SNAKE',
     play: 'Play',
     options: 'Options',
     achievements: 'Achievements',
@@ -20,7 +20,7 @@ const translations = {
     achievementUnlocked: 'Achievement Unlocked!'
   },
   'pt-BR': {
-    title: 'Jogo da Cobra',
+    title: 'S4 SNAKE',
     play: 'Jogar',
     options: 'Opções',
     achievements: 'Conquistas',
